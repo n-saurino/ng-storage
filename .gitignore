@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Licensed vendor data: never commit
+data/raw/databento/
+tests/fixtures/databento_*

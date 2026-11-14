@@ -1,0 +1,169 @@
+{
+  "warnings": [
+    {
+      "warning": "incomplete return",
+      "description": "The API can only return 5000 rows in JSON format.  Please consider constraining your request with facet, start, or end, or using offset to paginate results."
+    }
+  ],
+  "response": {
+    "total": "1760",
+    "dateFormat": "YYYY-MM-DD",
+    "frequency": "weekly",
+    "data": [
+      {
+        "period": "2026-11-06",
+        "duoarea": "R33",
+        "area-name": "NA",
+        "product": "EPG0",
+        "product-name": "Natural Gas",
+        "process": "SSO",
+        "process-name": "Salt Underground Storage - Working Gas",
+        "series": "NW2_EPG0_SSO_R33_BCF",
+        "series-description": "Weekly Salt Region Natural Gas Working Underground Storage (Billion Cubic Feet)",
+        "value": "312",
+        "units": "BCF"
+      },
+      {
+        "period": "2026-11-06",
+        "duoarea": "R48",
+        "area-name": "NA",
+        "product": "EPG0",
+        "product-name": "Natural Gas",
+        "process": "SWO",
+        "process-name": "Underground Storage - Working Gas",
+        "series": "NW2_EPG0_SWO_R48_BCF",
+        "series-description": "Weekly Lower 48 States Natural Gas Working Underground Storage (Billion Cubic Feet)",
+        "value": "3862",
+        "units": "BCF"
+      },
+      {
+        "period": "2026-10-30",
+        "duoarea": "R33",
+        "area-name": "NA",
+        "product": "EPG0",
+        "product-name": "Natural Gas",
+        "process": "SSO",
+        "process-name": "Salt Underground Storage - Working Gas",
+        "series": "NW2_EPG0_SSO_R33_BCF",
+        "series-description": "Weekly Salt Region Natural Gas Working Underground Storage (Billion Cubic Feet)",
+        "value": "296",
+        "units": "BCF"
+      },
+      {
+        "period": "2026-10-30",
+        "duoarea": "R48",
+        "area-name": "NA",
+        "product": "EPG0",
+        "product-name": "Natural Gas",
+        "process": "SWO",
+        "process-name": "Underground Storage - Working Gas",
+        "series": "NW2_EPG0_SWO_R48_BCF",
+        "series-description": "Weekly Lower 48 States Natural Gas Working Underground Storage (Billion Cubic Feet)",
+        "value": "3801",
+        "units": "BCF"
+      },
+      {
+        "period": "2026-10-23",
+        "duoarea": "R33",
+        "area-name": "NA",
+        "product": "EPG0",
+        "product-name": "Natural Gas",
+        "process": "SSO",
+        "process-name": "Salt Underground Storage - Working Gas",
+        "series": "NW2_EPG0_SSO_R33_BCF",
+        "series-description": "Weekly Salt Region Natural Gas Working Underground Storage (Billion Cubic Feet)",
+        "value": "274",
+        "units": "BCF"
+      },
+      {
+        "period": "2026-10-23",
+        "duoarea": "R48",
+        "area-name": "NA",
+        "product": "EPG0",
+        "product-name": "Natural Gas",
+        "process": "SWO",
+        "process-name": "Underground Storage - Working Gas",
+        "series": "NW2_EPG0_SWO_R48_BCF",
+        "series-description": "Weekly Lower 48 States Natural Gas Working Underground Storage (Billion Cubic Feet)",
+        "value": "3724",
+        "units": "BCF"
+      },
+      {
+        "period": "2026-10-16",
+        "duoarea": "R33",
+        "area-name": "NA",
+        "product": "EPG0",
+        "product-name": "Natural Gas",
+        "process": "SSO",
+        "process-name": "Salt Underground Storage - Working Gas",
+        "series": "NW2_EPG0_SSO_R33_BCF",
+        "series-description": "Weekly Salt Region Natural Gas Working Underground Storage (Billion Cubic Feet)",
+        "value": "251",
+        "units": "BCF"
+      },
+      {
+        "period": "2026-10-16",
+        "duoarea": "R48",
+        "area-name": "NA",
+        "product": "EPG0",
+        "product-name": "Natural Gas",
+        "process": "SWO",
+        "process-name": "Underground Storage - Working Gas",
+        "series": "NW2_EPG0_SWO_R48_BCF",
+        "series-description": "Weekly Lower 48 States Natural Gas Working Underground Storage (Billion Cubic Feet)",
+        "value": "3644",
+        "units": "BCF"
+      },
+      {
+        "period": "2026-10-09",
+        "duoarea": "R33",
+        "area-name": "NA",
+        "product": "EPG0",
+        "product-name": "Natural Gas",
+        "process": "SSO",
+        "process-name": "Salt Underground Storage - Working Gas",
+        "series": "NW2_EPG0_SSO_R33_BCF",
+        "series-description": "Weekly Salt Region Natural Gas Working Underground Storage (Billion Cubic Feet)",
+        "value": "236",
+        "units": "BCF"
+      },
+      {
+        "period": "2026-10-09",
+        "duoarea": "R48",
+        "area-name": "NA",
+        "product": "EPG0",
+        "product-name": "Natural Gas",
+        "process": "SWO",
+        "process-name": "Underground Storage - Working Gas",
+        "series": "NW2_EPG0_SWO_R48_BCF",
+        "series-description": "Weekly Lower 48 States Natural Gas Working Underground Storage (Billion Cubic Feet)",
+        "value": "3567",
+        "units": "BCF"
+      }
+    ]
+  },
+  "request": {
+    "command": "/v2/natural-gas/stor/wkly/data/",
+    "params": {
+      "frequency": "weekly",
+      "data": [
+        "value"
+      ],
+      "facets": {
+        "series": [
+          "NW2_EPG0_SWO_R48_BCF",
+          "NW2_EPG0_SSO_R33_BCF"
+        ]
+      },
+      "sort": [
+        {
+          "column": "period",
+          "direction": "desc"
+        }
+      ],
+      "length": "10"
+    }
+  },
+  "apiVersion": "2.1.14",
+  "ExcelAddInVersion": "2.1.0"
+}

@@ -1,0 +1,45 @@
+{
+  "response": {
+    "totalFacets": 8,
+    "facets": [
+      {
+        "id": "NW2_EPG0_SWO_R48_BCF",
+        "name": "Weekly Lower 48 States Natural Gas Working Underground Storage (Billion Cubic Feet)"
+      },
+      {
+        "id": "NW2_EPG0_SNO_R33_BCF",
+        "name": "Weekly Nonsalt Region Natural Gas Working Underground Storage (Billion Cubic Feet)"
+      },
+      {
+        "id": "NW2_EPG0_SSO_R33_BCF",
+        "name": "Weekly Salt Region Natural Gas Working Underground Storage (Billion Cubic Feet)"
+      },
+      {
+        "id": "NW2_EPG0_SWO_R34_BCF",
+        "name": "Weekly Mountain Region Natural Gas Working Underground Storage (Billion Cubic Feet)"
+      },
+      {
+        "id": "NW2_EPG0_SWO_R31_BCF",
+        "name": "Weekly East Region Natural Gas Working Underground Storage (Billion Cubic Feet)"
+      },
+      {
+        "id": "NW2_EPG0_SWO_R35_BCF",
+        "name": "Weekly Pacific Region Natural Gas Working Underground Storage (Billion Cubic Feet)"
+      },
+      {
+        "id": "NW2_EPG0_SWO_R32_BCF",
+        "name": "Weekly Midwest Region Natural Gas Working Underground Storage (Billion Cubic Feet)"
+      },
+      {
+        "id": "NW2_EPG0_SWO_R33_BCF",
+        "name": "Weekly South Central  Region Natural Gas Working Underground Storage (Billion Cubic Feet)"
+      }
+    ]
+  },
+  "request": {
+    "command": "/v2/natural-gas/stor/wkly/facet/series/",
+    "params": []
+  },
+  "apiVersion": "2.1.14",
+  "ExcelAddInVersion": "2.1.0"
+}

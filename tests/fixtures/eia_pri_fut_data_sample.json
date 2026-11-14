@@ -1,0 +1,293 @@
+{
+  "warnings": [
+    {
+      "warning": "incomplete return",
+      "description": "The API can only return 5000 rows in JSON format.  Please consider constraining your request with facet, start, or end, or using offset to paginate results."
+    }
+  ],
+  "response": {
+    "total": "37883",
+    "dateFormat": "YYYY-MM-DD",
+    "frequency": "daily",
+    "data": [
+      {
+        "period": "2026-11-11",
+        "duoarea": "RGC",
+        "area-name": "NA",
+        "product": "EPG0",
+        "product-name": "Natural Gas",
+        "process": "PS0",
+        "process-name": "Spot Price",
+        "series": "RNGWHHD",
+        "series-description": "Henry Hub Natural Gas Spot Price (Dollars per Million Btu)",
+        "value": "3",
+        "units": "$/MMBTU"
+      },
+      {
+        "period": "2026-11-10",
+        "duoarea": "RGC",
+        "area-name": "NA",
+        "product": "EPG0",
+        "product-name": "Natural Gas",
+        "process": "PS0",
+        "process-name": "Spot Price",
+        "series": "RNGWHHD",
+        "series-description": "Henry Hub Natural Gas Spot Price (Dollars per Million Btu)",
+        "value": "3",
+        "units": "$/MMBTU"
+      },
+      {
+        "period": "2026-11-09",
+        "duoarea": "RGC",
+        "area-name": "NA",
+        "product": "EPG0",
+        "product-name": "Natural Gas",
+        "process": "PS0",
+        "process-name": "Spot Price",
+        "series": "RNGWHHD",
+        "series-description": "Henry Hub Natural Gas Spot Price (Dollars per Million Btu)",
+        "value": "2.89",
+        "units": "$/MMBTU"
+      },
+      {
+        "period": "2026-11-06",
+        "duoarea": "RGC",
+        "area-name": "NA",
+        "product": "EPG0",
+        "product-name": "Natural Gas",
+        "process": "PS0",
+        "process-name": "Spot Price",
+        "series": "RNGWHHD",
+        "series-description": "Henry Hub Natural Gas Spot Price (Dollars per Million Btu)",
+        "value": "2.6",
+        "units": "$/MMBTU"
+      },
+      {
+        "period": "2026-11-05",
+        "duoarea": "RGC",
+        "area-name": "NA",
+        "product": "EPG0",
+        "product-name": "Natural Gas",
+        "process": "PS0",
+        "process-name": "Spot Price",
+        "series": "RNGWHHD",
+        "series-description": "Henry Hub Natural Gas Spot Price (Dollars per Million Btu)",
+        "value": "2.61",
+        "units": "$/MMBTU"
+      },
+      {
+        "period": "2026-11-04",
+        "duoarea": "RGC",
+        "area-name": "NA",
+        "product": "EPG0",
+        "product-name": "Natural Gas",
+        "process": "PS0",
+        "process-name": "Spot Price",
+        "series": "RNGWHHD",
+        "series-description": "Henry Hub Natural Gas Spot Price (Dollars per Million Btu)",
+        "value": "2.63",
+        "units": "$/MMBTU"
+      },
+      {
+        "period": "2026-11-03",
+        "duoarea": "RGC",
+        "area-name": "NA",
+        "product": "EPG0",
+        "product-name": "Natural Gas",
+        "process": "PS0",
+        "process-name": "Spot Price",
+        "series": "RNGWHHD",
+        "series-description": "Henry Hub Natural Gas Spot Price (Dollars per Million Btu)",
+        "value": "2.63",
+        "units": "$/MMBTU"
+      },
+      {
+        "period": "2026-11-02",
+        "duoarea": "RGC",
+        "area-name": "NA",
+        "product": "EPG0",
+        "product-name": "Natural Gas",
+        "process": "PS0",
+        "process-name": "Spot Price",
+        "series": "RNGWHHD",
+        "series-description": "Henry Hub Natural Gas Spot Price (Dollars per Million Btu)",
+        "value": "2.54",
+        "units": "$/MMBTU"
+      },
+      {
+        "period": "2026-10-30",
+        "duoarea": "RGC",
+        "area-name": "NA",
+        "product": "EPG0",
+        "product-name": "Natural Gas",
+        "process": "PS0",
+        "process-name": "Spot Price",
+        "series": "RNGWHHD",
+        "series-description": "Henry Hub Natural Gas Spot Price (Dollars per Million Btu)",
+        "value": "2.42",
+        "units": "$/MMBTU"
+      },
+      {
+        "period": "2026-10-29",
+        "duoarea": "RGC",
+        "area-name": "NA",
+        "product": "EPG0",
+        "product-name": "Natural Gas",
+        "process": "PS0",
+        "process-name": "Spot Price",
+        "series": "RNGWHHD",
+        "series-description": "Henry Hub Natural Gas Spot Price (Dollars per Million Btu)",
+        "value": "2.68",
+        "units": "$/MMBTU"
+      },
+      {
+        "period": "2026-10-28",
+        "duoarea": "RGC",
+        "area-name": "NA",
+        "product": "EPG0",
+        "product-name": "Natural Gas",
+        "process": "PS0",
+        "process-name": "Spot Price",
+        "series": "RNGWHHD",
+        "series-description": "Henry Hub Natural Gas Spot Price (Dollars per Million Btu)",
+        "value": "2.86",
+        "units": "$/MMBTU"
+      },
+      {
+        "period": "2026-10-27",
+        "duoarea": "RGC",
+        "area-name": "NA",
+        "product": "EPG0",
+        "product-name": "Natural Gas",
+        "process": "PS0",
+        "process-name": "Spot Price",
+        "series": "RNGWHHD",
+        "series-description": "Henry Hub Natural Gas Spot Price (Dollars per Million Btu)",
+        "value": "2.76",
+        "units": "$/MMBTU"
+      },
+      {
+        "period": "2026-10-26",
+        "duoarea": "RGC",
+        "area-name": "NA",
+        "product": "EPG0",
+        "product-name": "Natural Gas",
+        "process": "PS0",
+        "process-name": "Spot Price",
+        "series": "RNGWHHD",
+        "series-description": "Henry Hub Natural Gas Spot Price (Dollars per Million Btu)",
+        "value": "2.52",
+        "units": "$/MMBTU"
+      },
+      {
+        "period": "2026-10-23",
+        "duoarea": "RGC",
+        "area-name": "NA",
+        "product": "EPG0",
+        "product-name": "Natural Gas",
+        "process": "PS0",
+        "process-name": "Spot Price",
+        "series": "RNGWHHD",
+        "series-description": "Henry Hub Natural Gas Spot Price (Dollars per Million Btu)",
+        "value": "2.78",
+        "units": "$/MMBTU"
+      },
+      {
+        "period": "2026-10-22",
+        "duoarea": "RGC",
+        "area-name": "NA",
+        "product": "EPG0",
+        "product-name": "Natural Gas",
+        "process": "PS0",
+        "process-name": "Spot Price",
+        "series": "RNGWHHD",
+        "series-description": "Henry Hub Natural Gas Spot Price (Dollars per Million Btu)",
+        "value": "2.95",
+        "units": "$/MMBTU"
+      },
+      {
+        "period": "2026-10-21",
+        "duoarea": "RGC",
+        "area-name": "NA",
+        "product": "EPG0",
+        "product-name": "Natural Gas",
+        "process": "PS0",
+        "process-name": "Spot Price",
+        "series": "RNGWHHD",
+        "series-description": "Henry Hub Natural Gas Spot Price (Dollars per Million Btu)",
+        "value": "3.01",
+        "units": "$/MMBTU"
+      },
+      {
+        "period": "2026-10-20",
+        "duoarea": "RGC",
+        "area-name": "NA",
+        "product": "EPG0",
+        "product-name": "Natural Gas",
+        "process": "PS0",
+        "process-name": "Spot Price",
+        "series": "RNGWHHD",
+        "series-description": "Henry Hub Natural Gas Spot Price (Dollars per Million Btu)",
+        "value": "3.1",
+        "units": "$/MMBTU"
+      },
+      {
+        "period": "2026-10-19",
+        "duoarea": "RGC",
+        "area-name": "NA",
+        "product": "EPG0",
+        "product-name": "Natural Gas",
+        "process": "PS0",
+        "process-name": "Spot Price",
+        "series": "RNGWHHD",
+        "series-description": "Henry Hub Natural Gas Spot Price (Dollars per Million Btu)",
+        "value": "3.28",
+        "units": "$/MMBTU"
+      },
+      {
+        "period": "2026-10-16",
+        "duoarea": "RGC",
+        "area-name": "NA",
+        "product": "EPG0",
+        "product-name": "Natural Gas",
+        "process": "PS0",
+        "process-name": "Spot Price",
+        "series": "RNGWHHD",
+        "series-description": "Henry Hub Natural Gas Spot Price (Dollars per Million Btu)",
+        "value": "3.22",
+        "units": "$/MMBTU"
+      },
+      {
+        "period": "2026-10-15",
+        "duoarea": "RGC",
+        "area-name": "NA",
+        "product": "EPG0",
+        "product-name": "Natural Gas",
+        "process": "PS0",
+        "process-name": "Spot Price",
+        "series": "RNGWHHD",
+        "series-description": "Henry Hub Natural Gas Spot Price (Dollars per Million Btu)",
+        "value": "3.3",
+        "units": "$/MMBTU"
+      }
+    ]
+  },
+  "request": {
+    "command": "/v2/natural-gas/pri/fut/data/",
+    "params": {
+      "frequency": "daily",
+      "data": [
+        "value"
+      ],
+      "sort": [
+        {
+          "column": "period",
+          "direction": "desc"
+        }
+      ],
+      "length": "20"
+    }
+  },
+  "apiVersion": "2.1.14",
+  "ExcelAddInVersion": "2.1.0"
+}
